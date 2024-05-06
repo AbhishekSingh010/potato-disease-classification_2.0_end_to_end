@@ -1,0 +1,10 @@
+
+langchain==0.1.11
+langchain_google_genai==0.0.9
+python-dotenv==1.0.1
+streamlit==1.27.0
+numpy==1.26.3
+pandas==1.5.3
+tensorflow==2.6.0
+Pillow==9.5.0
+
